@@ -1,8 +1,4 @@
-linear1
-linear1
-linear1
-linear1
-linear1
-linear1
-linear1
-linear1
+hi
+hello
+안녕하세요
+ni hao
